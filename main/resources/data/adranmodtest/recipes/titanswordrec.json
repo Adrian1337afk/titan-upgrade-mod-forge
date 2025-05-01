@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "adranmodtest:titanupgradetemplate"
+  },
+  "base": {
+    "item": "minecraft:netherite_sword"
+  },
+  "addition": {
+    "item": "adranmodtest:titaningot"
+  },
+  "result": {
+    "item": "adranmodtest:titansword"
+  }
+}

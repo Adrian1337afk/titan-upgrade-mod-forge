@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "adranmodtest:block/deepslate_titan_ore",
+    "particle": "adranmodtest:block/deepslate_titan_ore"
+  },
+  "render_type": "solid"
+}
